@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="run_demo_traj" default="false"/>
+  <arg name="run_demo_traj" default="true"/>
   <arg name="effort_control" default="false"/>
   <arg name="velocity_control" default="false"/>
   <arg name="namespace" default="xarm"/>
